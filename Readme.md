@@ -1,6 +1,7 @@
 # Chatbot made with Seq2Seq Learn Library for C#
 
-Seq2SeqLearn Library is a sequence to sequence learning library written in c# .net. <br/>
+[![Banner](http://img.youtube.com/vi/MvZahDT2T08/0.jpg)](https://www.youtube.com/watch?v=MvZahDT2T08) <br/>
+This is a very simple chatbot made with Seq2SeqLearn, this library is a sequence to sequence learning library written in c# .net. <br/>
 https://github.com/mashmawy/Seq2SeqLearn <br/>
 
 ## WHY (MOTIVATION)
